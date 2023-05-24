@@ -17,4 +17,5 @@ Windows OS should have ncurses headers already so this should work:
 
 ## Run the game:
 After compliling run this code then it will work
-     ./slither
+
+    ./slither
