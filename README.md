@@ -1,6 +1,7 @@
 # 2D Snake Game
 
 ## Snake Game in C++ Using ncurses library of ubuntu (linux)
+### `Is is a GUI based Project made using ncurses library`
 
 ## Linux:
 If your linux distro does not have the headers you need to get them first:
